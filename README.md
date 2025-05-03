@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://github.com/Neggy5">
-    <img alt=" CODECIPHER logo"  src="https://files.catbox.moe/o74ge0.jpg">
+    <img alt="CODECIPHER logo"  src="https://files.catbox.moe/o74ge0.jpg">
   </a>
 </p>
 
